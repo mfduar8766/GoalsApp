@@ -1,1 +1,25 @@
-/* You can add global styles to this file, and also import other style files */
+
+ html body {
+    background: rgb(33, 155, 236);
+    font-family: 'Raleway', 'Arial';
+    padding: 3em;
+    color: white;
+}
+
+ul {
+    list-style: none;
+    margin: 0 0 2em 0;
+    padding: 0;
+}
+
+ul li {
+    display: inline;
+    margin-right: 30px;
+}
+
+ ul li a {
+    font-size: 1.5em;
+    color: white;
+    text-decoration: none;
+ }
+
